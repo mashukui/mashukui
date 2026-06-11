@@ -2,7 +2,7 @@
 
 > ✍🏻 我是一枚10年+程序员，擅长爬虫。曾经也一度迷茫焦虑，中年危机来临之际，选择主动出击，转型独立开发、轻资产创业。目前原创发布了一些python源码和封装好的采集软件，输出过知识付费产品，结识了各行各业的小伙伴。产品持续迭代升级，内容持续更新发布中。
 > 
-> 🌏 微信公众号：**老男孩的平凡之路**
+> 🌏 [微信公众号：**老男孩的平凡之路**](https://github.com/mashukui/mashukui/blob/main/wechat.png)
 
 ---
 
@@ -47,7 +47,7 @@
 
 ---
 
-> 💬 有问题？公众号「老男孩的平凡之路」后台留言，或对应仓库Discussions区讨论
+> 💬 有问题？[公众号「老男孩的平凡之路」](https://github.com/mashukui/mashukui/blob/main/wechat.png)后台留言，或对应仓库Discussions区讨论
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mashukui&label=Profile%20Views&color=0e75b6&style=flat" alt="访问统计" />
