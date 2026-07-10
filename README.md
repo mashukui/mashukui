@@ -2,13 +2,13 @@
 
 > ✍🏻 我是一枚10年+程序员，擅长爬虫。曾经也一度迷茫焦虑，中年危机来临之际，选择主动出击，转型独立开发、轻资产创业。目前原创发布了一些python源码和封装好的采集软件，输出过知识付费产品，结识了各行各业的小伙伴。产品持续迭代升级，内容持续更新发布中。
 > 
-> 🌏 [微信公众号：**老男孩的平凡之路**](https://github.com/mashukui/mashukui/blob/main/wechat2.png)
+> 🌏 [**微信公众号：老男孩的平凡之路**](https://github.com/mashukui/mashukui/blob/main/wechat2.png)
 
 ---
 
 ### 🛠 产品矩阵
 
-| 平台 | 产品 | 功能亮点 | 获取 |
+| 软件名称 | 仓库链接 | 功能亮点 | 获取使用 |
 |------|------|----------|------|
 | 抖音采集器 | [douyin_one_spider](https://github.com/mashukui/douyin_one_spider) | 关键词搜索·评论采集·主页作品·链接转换 | [⬇️下载](https://github.com/mashukui/douyin_one_spider/releases) |
 | 小红书采集器 | [xhs_one_spider](https://github.com/mashukui/xhs_one_spider) | 搜索笔记·评论采集·博主笔记·链接转换 | [⬇️下载](https://github.com/mashukui/xhs_one_spider/releases) |
@@ -28,8 +28,8 @@
 
 - 🖱️ **开箱即用** — GUI界面，Win/Mac双端运行，无需配置编程环境
 - ⚡ **接口采集** — 非模拟浏览器，速度快、稳定性高
-- 💾 **断点续存** — 每页实时保存 CSV，不怕意外中断
-- 📝 **日志完备** — 全程 log 记录，问题可回溯
+- 💾 **断点续存** — 每页实时保存CSV，不怕意外中断
+- 📝 **日志完备** — 全程log记录，问题可回溯
 - 🔑 **一机一码** — 防盗版，保障正版用户权益
 
 ---
