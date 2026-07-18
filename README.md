@@ -34,7 +34,7 @@
 
 ---
 
-> 💬 有问题？[公众号「老男孩的平凡之路」](https://github.com/mashukui/mashukui/blob/main/wechat.png)后台留言，或对应仓库Discussions区讨论
+> 💬 有问题？[公众号「老男孩的平凡之路」](https://github.com/mashukui/mashukui/blob/main/wechat2.png)后台留言，或对应仓库Discussions区讨论
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mashukui&label=Profile%20Views&color=0e75b6&style=flat" alt="访问统计" />
