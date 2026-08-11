@@ -10,13 +10,13 @@
 
 | 软件名称 | 仓库链接 | 功能亮点 | 获取使用 |
 |------|------|----------|------|
-| 抖音采集器 | [douyin_one_spider](https://github.com/mashukui/douyin_one_spider) | 关键词搜索·评论采集·主页作品·链接转换 | [⬇️下载](https://github.com/mashukui/douyin_one_spider/releases) |
-| 小红书采集器 | [xhs_one_spider](https://github.com/mashukui/xhs_one_spider) | 搜索笔记·评论采集·博主笔记·链接转换 | [⬇️下载](https://github.com/mashukui/xhs_one_spider/releases) |
-| 微博采集器 | [weibo_one_spider](https://github.com/mashukui/weibo_one_spider) | 关键词搜索·主页帖子·主页信息·评论采集 | [⬇️下载](https://github.com/mashukui/weibo_one_spider/releases) |
-| 快手采集器 | [kuaishou_one_spider](https://github.com/mashukui/kuaishou_one_spider) | 搜索作品·评论采集·主页作品·链接转换 | [⬇️下载](https://github.com/mashukui/kuaishou_one_spider/releases) |
-| 蒲公英采集器 | [pgy_spider](https://github.com/mashukui/pgy_spider) | KOL达人搜索·粉丝筛选·报价筛选·34字段 | [⬇️下载](https://github.com/mashukui/pgy_spider/releases) |
-| 油管评论采集器 | [ytb_cmt_spider](https://github.com/mashukui/ytb_cmt_spider) | 批量视频评论·Excel/Json导出 | [⬇️下载](https://github.com/mashukui/ytb_cmt_spider/releases) |
-| 油管红人采集器 | [youtube_user](https://github.com/mashukui/youtube_user) | 关键词搜红人·国家筛选·邮箱社媒挖掘 | [⬇️下载](https://github.com/mashukui/youtube_user/releases) |
+| 抖音采集器 | [douyin_one_spider](https://github.com/mashukui/douyin_one_spider) | 关键词搜索·评论采集·主页作品·链接转换 | [下载](https://github.com/mashukui/douyin_one_spider/releases) |
+| 小红书采集器 | [xhs_one_spider](https://github.com/mashukui/xhs_one_spider) | 搜索笔记·评论采集·博主笔记·链接转换 | [下载](https://github.com/mashukui/xhs_one_spider/releases) |
+| 微博采集器 | [weibo_one_spider](https://github.com/mashukui/weibo_one_spider) | 关键词搜索·主页帖子·主页信息·评论采集 | [下载](https://github.com/mashukui/weibo_one_spider/releases) |
+| 快手采集器 | [kuaishou_one_spider](https://github.com/mashukui/kuaishou_one_spider) | 搜索作品·评论采集·主页作品·链接转换 | [下载](https://github.com/mashukui/kuaishou_one_spider/releases) |
+| 蒲公英采集器 | [pgy_spider](https://github.com/mashukui/pgy_spider) | KOL达人搜索·粉丝筛选·报价筛选·34字段 | [下载](https://github.com/mashukui/pgy_spider/releases) |
+| 油管评论采集器 | [ytb_cmt_spider](https://github.com/mashukui/ytb_cmt_spider) | 批量视频评论·Excel/Json导出 | [下载](https://github.com/mashukui/ytb_cmt_spider/releases) |
+| 油管红人采集器 | [youtube_user](https://github.com/mashukui/youtube_user) | 关键词搜红人·国家筛选·邮箱社媒挖掘 | [下载](https://github.com/mashukui/youtube_user/releases) |
 
 ---
 
